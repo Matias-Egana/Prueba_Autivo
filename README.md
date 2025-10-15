@@ -1,7 +1,7 @@
 
 # API de Análisis Geográfico (FastAPI + REST Countries)
 
-Este es una prueba técnica para Autivo que consta de la creación una API REST en Python (FastAPI) que consume REST Countries, para el
+Esta es una prueba técnica para Autivo que consta de la creación una API REST en Python (FastAPI) que consume REST Countries, para el
 análisis e información procesada sobre países.
 
 ---
