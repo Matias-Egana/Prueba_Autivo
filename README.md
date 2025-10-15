@@ -82,10 +82,10 @@ Prueba_Autivo/
 │  ├─ main.py              # Principal
 │  ├─ maps.py              # Mapeos
 │  ├─ models.py            # Modelos 
-│  └─ routes.py            # Rutas con los endpoints
+│  └─ routes.py            # Rutas de los endpoints
 ├─ .env                    # Variables de entorno
-├─ dockerfile              # (opcional)
-├─ docker-compose.yml      # (opcional)
+├─ dockerfile              
+├─ docker-compose.yml      
 ├─ README.md            
 └─ requirements.txt   
 
