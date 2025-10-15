@@ -66,9 +66,9 @@ pip install -r requirements.txt
 ```sh
 python -m uvicorn app.main:app --reload
 ```
-2. Abre el siguiente enlace en tu navegador:
+2. Abre el siguiente enlace en tu navegador (Recomendado):
 ```sh
-http://127.0.0.1:8000
+http://localhost:8000
 ```
 ## Variables de entorno
 
@@ -180,7 +180,7 @@ docker-compose build
 ```sh
 docker-compose up
 ```
-#### Test
+#### Test (Recomendado)
 
 ```sh
 http://localhost:8000
